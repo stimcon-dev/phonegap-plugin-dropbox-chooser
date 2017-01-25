@@ -38,10 +38,10 @@
                     <key>CFBundleTypeRole</key>
                     <string>Shell</string>
                     <key>CFBundleURLName</key>
-                    <string>$APP_ID</string>
+                    <string>com.ionicframework.aoda9594ac1</string>
                     <key>CFBundleURLSchemes</key>
                     <array>
-                        <string>db-$DROPBOX_APP_KEY</string>
+                        <string>db-uj10onkfd3r1n84</string>
                     </array>
                 </dict>
             </array>
